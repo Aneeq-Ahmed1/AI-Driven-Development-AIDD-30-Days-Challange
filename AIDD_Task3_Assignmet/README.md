@@ -1,59 +1,80 @@
-AI-Driven Development — 30-Day Challenge
-Task 3 — Official Submission (Updated Version)
+# AI-Driven Development — 30-Day Challenge
 
-Instructor: Sir Hamzah Syed
+## **Task 3 — Official Submission (Updated Version)**
 
-📘 Overview
+**Instructor:** Sir Hamzah Syed
 
-This repository contains my submission for Task 3 of the AI-Driven Development (AIDD) – 30-Day Challenge.
-The task focuses on exploring Gemini 3.0, understanding its new improvements, developer tools, and performing a practical model-update using Gemini CLI.
+---
 
-🧩 Task Contents
-### ✔ Part A — Research Questions (Short Answers)
+## 📘 Overview
+
+This repository contains my submission for **Task 3** of the *AI-Driven Development (AIDD) – 30-Day Challenge*.
+The task focuses on exploring **Gemini 3.0**, understanding its new improvements, developer tools, and performing a practical model-update using **Gemini CLI**.
+
+---
+
+## 🧩 **Task Contents**
+
+### ### **✔ Part A — Research Questions (Short Answers)**
 
 Short, well-researched answers based on official Google DeepMind / Gemini documentation covering:
 
-Improvements introduced in Gemini 3.0
+* Improvements introduced in **Gemini 3.0**
+* Enhancements in coding & automation
+* Multimodal understanding
+* Newly introduced developer tools
 
-Enhancements in coding & automation
+---
 
-Multimodal understanding
+## **✔ Part B — Practical Task (Screenshot Included)**
 
-Newly introduced developer tools
+Using **Gemini CLI**, I performed:
 
-✔ Part B — Practical Task (Screenshot Included)
-
-Using Gemini CLI, I performed:
-
-/model command
-
-Updated to the latest Gemini 3.0 model
-
-Captured CLI screenshot showing successful model update
+* `/model` command
+* Updated to the latest **Gemini 3.0 model**
+* Captured CLI screenshot showing successful model update
 
 The screenshot is included inside the PDF.
 
 
 
-📁 Repository Structure
+## 🛠 Tools Used
+
+* Gemini CLI
+* VS Code
+* Google AI Developer Documentation
+
+---
+
+## 📁 Repository Structure
+
+```
 /Task3
 │── README.md
 │── Task3_Submission_Final.pdf
 │── /screenshots
     └── gemini_cli_model_update.png
-🎯 Purpose
+```
+
+---
+
+## 🎯 Purpose
 
 This task demonstrates how AI-Driven Development workflows evolve using
-Google’s Gemini 3.0, focusing on:
+Google’s **Gemini 3.0**, focusing on:
 
-Agentic automation
+* Agentic automation
+* Improved coding workflows
+* Multimodal reasoning
+* Practical model configuration
 
-Improved coding workflows
+---
 
-Multimodal reasoning
+## 👨‍🎓 Student
 
-Practical model configuration
+**Aneeq Ahmed**
 
-👨‍🎓 Student
-
-Aneeq Ahmed
+If you'd like, I can also create:
+✅ A more advanced GitHub README layout
+✅ Badges (shields)
+✅ Dark/light themed headers
