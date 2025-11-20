@@ -29,8 +29,11 @@ Using Gemini CLI, I performed:
 
 Updated to the latest Gemini 3.0 model
 
+Captured CLI screenshot showing successful model update
 
-Google AI Developer Documentation
+The screenshot is included inside the PDF.
+
+
 
 📁 Repository Structure
 /Task3
